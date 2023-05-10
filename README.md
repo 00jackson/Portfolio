@@ -19,20 +19,17 @@ This is a project developed using React and Vite.js, along with Tailwind CSS, to
 # Installation
 To run this project locally, please follow these steps:
 
-* Clone the repository:
-
-        (*bash)
+        Clone the repository:
         git clone https://github.com/your-username/project-name.git
-        Navigate to the project directory:
         
-        (*bash)
+        Navigate to the project directory:
         cd project-name
         
         Install the dependencies:
         npm install
         
         
-* Open your preferred web browser and visit http://localhost:3000 to access the application.
+        Open your preferred web browser and visit http://localhost:3000 to access the application.
 
 
 # Contributing
