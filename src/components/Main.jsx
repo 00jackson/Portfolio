@@ -15,7 +15,7 @@ const Main = () => {
                             sequence={[
                                 'Developer', // Types 'developer'
                                 1000, // Waits 1s
-                                'Coder', // deletes developer and types coder
+                                'Programmer', // deletes developer and types coder
                                 2000, // Waits 2s
                                 'Tech Enthusiast',//.. deletes coder and types tech enthisiast
                                 2000,
