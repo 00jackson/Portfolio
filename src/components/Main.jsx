@@ -34,7 +34,7 @@ const Main = () => {
                         <a href='https://www.instagram.com/themagnificentjackson___'>
                             <FaInstagram className='cursor-pointer' size={20} />
                         </a>
-                        <a href='https://www.linkedin.com/in/jackson-kujur-067b581a6//'>
+                        <a href='https://www.linkedin.com/in/contact-jacksonkujur/'>
                             <FaLinkedinIn className='cursor-pointer' size={20} />
                         </a>
                         <a href='https://github.com/00jackson'>
