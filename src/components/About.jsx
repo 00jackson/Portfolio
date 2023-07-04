@@ -20,19 +20,19 @@ const AboutMe = () => {
                 <div className="flex justify-center">
                     <div className="flex items-center space-x-4">
                         <div className="flex items-center">
-                            <img src="/path/to/html5-icon.png" alt="HTML5" className="w-8 h-8" />
+                            <img src="assets/html-5.png" alt="HTML5" className="w-8 h-8" />
                             <span className="ml-2">HTML5</span>
                         </div>
                         <div className="flex items-center">
-                            <img src="/path/to/css3-icon.png" alt="CSS3" className="w-8 h-8" />
+                            <img src="assets/css-3.png" alt="CSS3" className="w-8 h-8" />
                             <span className="ml-2">CSS3</span>
                         </div>
                         <div className="flex items-center">
-                            <img src="/path/to/react-icon.png" alt="React.js" className="w-8 h-8" />
+                            <img src="assests/react.svg" alt="React.js" className="w-8 h-8" />
                             <span className="ml-2">React.js</span>
                         </div>
                         <div className="flex items-center">
-                            <img src="/path/to/js-icon.png" alt="JavaScript" className="w-8 h-8" />
+                            <img src="/assests/python.jpeg" alt="JavaScript" className="w-8 h-8" />
                             <span className="ml-2">JavaScript</span>
                         </div>
                         {/* Add more skills and icons as needed */}
