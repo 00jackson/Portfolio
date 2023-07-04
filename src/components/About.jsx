@@ -15,6 +15,29 @@ const AboutMe = () => {
                     </button>
                 </a>
             </div>
+            <div id="skills" className="max-w-[1040px] m-auto md:pl-20 p-4 py-8">
+                <h2 className="py-4 text-2xl font-bold text-center text-[#001b5e]">Skills</h2>
+                <div className="flex justify-center">
+                    <div className="flex items-center space-x-4">
+                        <div className="flex items-center">
+                            <img src="/path/to/html5-icon.png" alt="HTML5" className="w-8 h-8" />
+                            <span className="ml-2">HTML5</span>
+                        </div>
+                        <div className="flex items-center">
+                            <img src="/path/to/css3-icon.png" alt="CSS3" className="w-8 h-8" />
+                            <span className="ml-2">CSS3</span>
+                        </div>
+                        <div className="flex items-center">
+                            <img src="/path/to/react-icon.png" alt="React.js" className="w-8 h-8" />
+                            <span className="ml-2">React.js</span>
+                        </div>
+                        <div className="flex items-center">
+                            <img src="/path/to/js-icon.png" alt="JavaScript" className="w-8 h-8" />
+                            <span className="ml-2">JavaScript</span>
+                        </div>
+                        {/* Add more skills and icons as needed */}
+                    </div>
+                </div>
         </div>
     )
 }
