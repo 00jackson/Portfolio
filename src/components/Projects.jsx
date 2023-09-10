@@ -3,7 +3,7 @@ import ProjectItem from './ProjectItem'
 import portfolioImg from '../assets/portfolio.jpeg'
 import burgerImg from '../assets/burger.jpeg'
 import metroImg from '../assets/metro.jpeg'
-import shoppingImg from '../assets/shopping.jpeg'
+import storyImg from '../assets/src/assets/sixteen-miles-out-3ZvHsFiZyME-unsplash.jpg'
 
 
 const Projects = () => {
@@ -17,7 +17,7 @@ const Projects = () => {
                 <ProjectItem img={portfolioImg} title='Personal Portfolio' tech='React.js, Vite.js and Tailwind CSS' githubLink="" />
                 <ProjectItem img={burgerImg} title='Davies Burger' tech='HTML5 and CSS3' githubLink="https://github.com/00jackson/Davie-s-Burger" />
                 <ProjectItem img={metroImg} title='Metro Comp' tech='Java' githubLink="https://github.com/00jackson/MetroComp" />
-                <ProjectItem img={shoppingImg} title='Amazon Clone' tech='HTML5 and CSS3' githubLink="https://github.com/00jackson/Amazon-Clone" />
+                <ProjectItem img={storyImg} title='Form A Story' tech='HTML5, CSS3 and JavaScript' githubLink="https://github.com/00jackson/Amazon-Clone" />
 
             </div>
         </div >
